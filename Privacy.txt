@@ -1,0 +1,40 @@
+Privacy Policy for Winkle Music
+@ Ujjwal Srivastav - developer
+
+At Winkle Music, we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard the personal information you provide to us through the Winkle Music Discord bot.
+
+Information We Collect
+
+Winkle Music collects and stores the following information:
+
+Discord User IDs: We collect Discord user IDs to provide personalized music recommendations, track user preferences, and enable user-specific features.
+
+Server Information: We may collect information about the Discord servers where Winkle Music is used, such as server IDs, to improve our services and troubleshoot issues.
+
+Usage Data: We may collect data on how you interact with the bot, such as the commands you use, songs you request, and playlists you create. This information helps us improve the bot's functionality and user experience.
+
+How We Use Your Information
+
+We use the information we collect for the following purposes:
+
+Providing Music Services: We use your Discord user ID to deliver personalized music recommendations, playlists, and other music-related features.
+
+Improving Our Services: We analyze usage data to identify trends, track bot performance, and enhance the overall user experience.
+
+Customer Support: We may use your Discord user ID to provide support and assistance in resolving any issues or inquiries you may have.
+
+Data Security
+
+Winkle Music takes the security of your personal information seriously. We implement appropriate technical and organizational measures to protect against unauthorized access, disclosure, alteration, or destruction of data.
+
+Third-Party Services
+
+Winkle Music may integrate with third-party services, such as music streaming platforms, to provide certain features. Please review the privacy policies of these third-party services as they may have their own policies governing the collection and use of your information.
+
+Changes to This Privacy Policy
+
+Winkle Music reserves the right to update or modify this Privacy Policy at any time. We will notify users of any changes by posting the revised policy on our website or Discord server. Your continued use of the bot after any modifications to the Privacy Policy constitutes acceptance of those changes.
+
+Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [insert contact email or Discord server]. We are committed to addressing any inquiries or issues promptly and transparently.
