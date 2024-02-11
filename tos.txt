@@ -1,0 +1,50 @@
+#Terms of Service for Winkle Music Discord Bot
+
+**By using the Winkle Music Discord bot ("the Bot"), you agree to comply with and be bound by the following terms and conditions:
+
+1. Bot Usage
+
+1.1. You agree to use the Bot solely for lawful purposes and in accordance with these Terms of Service.
+
+1.2. You acknowledge that the Bot is provided for entertainment purposes only and does not guarantee the accuracy, completeness, or reliability of any information or content provided.
+
+2. User Conduct
+
+2.1. You agree not to engage in any activity that may disrupt the functioning of the Bot or interfere with other users' ability to use the Bot.
+
+2.2. You agree not to use the Bot to transmit or distribute any unlawful, defamatory, obscene, or offensive material.
+
+2.3. You agree not to attempt to gain unauthorized access to any part of the Bot or its associated systems.
+
+3. Intellectual Property
+
+3.1. The Bot and all associated content, including but not limited to logos, graphics, and audio files, are the intellectual property of Winkle Music or its licensors. You agree not to reproduce, distribute, or modify any part of the Bot without prior written consent.
+
+4. Limitation of Liability
+
+4.1. Winkle Music and its affiliates shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with the use of the Bot.
+
+5. Modifications to Terms
+
+5.1. Winkle Music reserves the right to modify or update these Terms of Service at any time. Changes will be effective immediately upon posting. Your continued use of the Bot after any modifications constitutes acceptance of the revised terms.
+
+6. Termination
+
+6.1. Winkle Music reserves the right to suspend or terminate your access to the Bot at any time, without prior notice or liability, for any reason whatsoever, including but not limited to a breach of these Terms of Service.
+
+7. Governing Law
+
+7.1. These Terms of Service shall be governed by and construed in accordance with the laws of [insert jurisdiction]. Any dispute arising out of or relating to these terms shall be subject to the exclusive jurisdiction of the courts of [insert jurisdiction].
+
+8. Contact Information
+
+If you have any questions or concerns about these Terms of Service, please contact us at [insert contact email or Discord server].
+
+By using the Bot, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. If you do not agree with any part of these terms, you may not use the Bot.
+
+**
+
+
+(You automatically accepting these tos, at executing any command on bot...)
+
+
